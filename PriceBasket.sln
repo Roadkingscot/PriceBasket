@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceBasket", "PriceBasket\PriceBasket.csproj", "{6C8DF6E0-4C46-4FA5-B2F2-2B530E4CEA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests1", "Tests1\Tests1.csproj", "{0E8DC724-282E-4E42-B1D5-157B609D0E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8DC724-282E-4E42-B1D5-157B609D0E11}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0E8DC724-282E-4E42-B1D5-157B609D0E11}.Debug|x86.Build.0 = Debug|Any CPU
+		{0E8DC724-282E-4E42-B1D5-157B609D0E11}.Release|x86.ActiveCfg = Release|Any CPU
+		{0E8DC724-282E-4E42-B1D5-157B609D0E11}.Release|x86.Build.0 = Release|Any CPU
+		{6C8DF6E0-4C46-4FA5-B2F2-2B530E4CEA79}.Debug|x86.ActiveCfg = Debug|x86
+		{6C8DF6E0-4C46-4FA5-B2F2-2B530E4CEA79}.Debug|x86.Build.0 = Debug|x86
+		{6C8DF6E0-4C46-4FA5-B2F2-2B530E4CEA79}.Release|x86.ActiveCfg = Release|x86
+		{6C8DF6E0-4C46-4FA5-B2F2-2B530E4CEA79}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
